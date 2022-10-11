@@ -1,0 +1,34 @@
+// Home
+.home {
+  background:  url("../../images/boat-gef90573d6_1920.jpg") no-repeat center center fixed; 
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.392);
+}
+
+.link-page {
+  color: $white-colour;
+
+}
+
+.home-container {
+  text-align: center;
+  margin-top: 150px;
+  width: 100%;
+}
+
+.home-heading {
+  color: rgb(255, 255, 255);
+}
+
+.app-logo {
+  max-width: 120px;
+}

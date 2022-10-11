@@ -1,0 +1,23 @@
+// Global
+html {
+  max-width: 100%;
+  max-height: 100%;
+  
+}
+
+body {
+  font-family: $font-primary;
+}
+
+.navbar {
+  z-index: 1;
+}
+
+a.nav-link {
+  color: $white-colour;
+}
+
+h1 {
+  color: $colour-ui-primary;
+  text-align: center;
+}

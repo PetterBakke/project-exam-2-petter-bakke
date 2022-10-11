@@ -1,0 +1,24 @@
+.contact-form {
+  padding: 10px;
+  width: 100%;
+}
+
+.submit-btn {
+  border-radius: 10px;
+  width: 170px;
+  margin-top: 30px;
+  margin-left: 100px;
+  height: 60px;
+  background-color: $white-colour;
+}
+
+input,
+textarea {
+  min-width: 350px;
+}
+
+body {
+  background-color: $colour-primary;
+  width: 100%;
+  height: 100%;
+}

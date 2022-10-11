@@ -1,0 +1,34 @@
+.search-hotel {
+  width: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.search-btn {
+  border-radius: 10px;
+  background-color: $white-colour;
+  margin-left: 5px;
+}
+
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid grey;
+}
+
+.dropdown:empty {
+  border: none;
+}
+
+.dropdown-row {
+  cursor: pointer;
+  text-align: start;
+  margin: 2px 0;
+}
+
+.search-inner {
+  display: flex;
+  
+} 
